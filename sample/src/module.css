@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  height: 100vh;
+
+  background-image: url(./desktop-1.jpg);
+  background-position: center;
+  background-size:cover;
+}
+.black{
+    color: black;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.bluehead{
+    color: blue;
+    font-family:  'Gill Sans MT', Calibri;
+}
