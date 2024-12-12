@@ -5,7 +5,7 @@ function Module1(){
 <div className="container">
     <h1 className="blackhead">I'm a Full Stack</h1>
     <h1 className="bluehead">
-Web
+
     </h1>
     <h1 className="blackhead">
 
