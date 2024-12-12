@@ -8,7 +8,7 @@ function Module1(){
 Web
     </h1>
     <h1 className="blackhead">
-Developer
+
     </h1>
     <p className="red">"Being a Full-Stack_developer is not knowing everything- it's about knowing how to learn and adapt"</p>
     <p className="blue">"Every bug you fix takes you one step closer to mastering the stack"</p>
