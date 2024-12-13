@@ -1,0 +1,82 @@
+.one,
+.two,
+.three {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.one h1,
+.two h1,
+.three h1 {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 10px;
+
+}
+
+/* WATCH */
+.watch-1 {
+  background-image: url("./watch-1.webp");
+  background-position: center;
+  background-size: cover;
+}
+.watch-2 {
+  background-image: url("./watch-2.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.watch-3 {
+  background-image: url("./watch-3.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.watch-4 {
+    background-image: url("./watch-4.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+/* BAGS */
+.bag-1 {
+    background-image: url("./bag-1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.bag-2 {
+    background-image: url("./bag-2.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.bag-3 {
+    background-image: url("./bag-3.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.bag-4 {
+    background-image: url("./bag-4.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+/* SHOES  */
+.shoes-1 {
+    background-image: url("./shoes-1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.shoes-2 {
+    background-image: url("./shoes-2.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.shoes-3 {
+    background-image: url("./shoes-3.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.shoes-4 {
+    background-image: url("./shoes-4.jpg");
+  background-position: center;
+  background-size: cover;
+}
