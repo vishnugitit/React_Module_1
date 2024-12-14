@@ -5,6 +5,7 @@ import './index.css';
 
 import Module1 from './module1';
 import Home from './Home/home';
+import Condition from './Conditional_Styling/condition';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -14,7 +15,7 @@ root.render(
     {/* <App /> */}
     <Module1/>
     <Home/>
-
+<Condition/>
   </React.StrictMode>
 );
 

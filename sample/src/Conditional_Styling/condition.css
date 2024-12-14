@@ -1,0 +1,47 @@
+.mobile .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./mobile.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.laptop .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./laptop.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.camera .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./camera.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.tv .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./tv.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.fridge .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./fridge.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.ac .model {
+  height: 200px;
+  width: 200px;
+  background-image: url("./ac.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.layout1,
+.layout2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
