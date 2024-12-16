@@ -6,6 +6,7 @@ import './index.css';
 import Module1 from './module1';
 import Home from './Home/home';
 import Condition from './Conditional_Styling/condition';
+import FakestoreCard from './FakestoreapiTable/fakestoreTable';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -16,6 +17,7 @@ root.render(
     <Module1/>
     <Home/>
 <Condition/>
+<FakestoreCard/>
   </React.StrictMode>
 );
 
